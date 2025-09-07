@@ -14,7 +14,7 @@ This is a Power BI dashboard for analyzing e-commerce sales data. It includes vi
 3. Load the provided data files or connect to your own datasets.
 
 ## Screenshot
-![Dashboard Screenshot](https://github.com/your-username/ecommerce-powerbi-dashboard/raw/main/Screenshot-2025-09-07-183159.png)
+![Dashboard Screenshot](https://github.com/LEKHRAJPRAJAPATI/Analyzed-e-commerce-sales-data/blob/main/Screenshot%202025-09-07%20183159.png)
 
 
 > *Note: The screenshot file is uploaded directly in the repository’s root folder.*
