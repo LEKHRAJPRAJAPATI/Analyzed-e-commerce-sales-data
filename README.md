@@ -14,9 +14,9 @@ This is a Power BI dashboard for analyzing e-commerce sales data. It includes vi
 3. Load the provided data files or connect to your own datasets.
 
 ## Screenshot
-![Dashboard Screenshot](Screenshot-2025-09-07-183159.png)
+![Dashboard Screenshot](Screenshot 2025-09-07 183159.png)
 
-> *Note: Ensure the image file is placed in the `images/` folder in your repository.*
+> *Note: The screenshot file is uploaded directly in the repository’s root folder.*
 
 ## Contact
 Connect with me on [LinkedIn](https://www.linkedin.com/in/lekhraj-prajapati-15aa26273).
